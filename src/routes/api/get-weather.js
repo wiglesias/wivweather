@@ -27,10 +27,10 @@ export async function get(event) {
     temp_c,
     wind_kph, wind_dir
   } = current;
-  const {code, text} = condition;
+  const {text, icon} = condition;
 
   const body = {
-    conditionCode: code,
+    conditionIcon: icon,
     conditionText: text,
     country,
     localtime,
