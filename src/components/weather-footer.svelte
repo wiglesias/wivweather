@@ -1,3 +1,18 @@
+<footer>
+  <div>
+    <span>33%</span>
+    <strong>Humidity</strong>
+  </div>
+  <div>
+    <span>12 km/h</span>
+    <strong>Windspeed</strong>
+  </div>
+  <div>
+    <span>12º</span>
+    <strong>Feels like</strong>
+  </div>
+</footer>
+
 <style>
   footer {
     border: 2px solid #000;
@@ -27,17 +42,3 @@
   }
 </style>
 
-<footer>
-  <div>
-    <span>33%</span>
-    <strong>Humidity</strong>
-  </div>
-  <div>
-    <span>12 km/h</span>
-    <strong>Windspeed</strong>
-  </div>
-  <div>
-    <span>12º</span>
-    <strong>Feels like</strong>
-  </div>
-</footer>

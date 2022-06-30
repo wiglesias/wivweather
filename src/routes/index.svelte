@@ -24,7 +24,7 @@
     font-weight: 300;
     color: #333;
     text-transform: uppercase;
-    padding: 32px 0 0 0;
+    padding: 16px 0 0 0;
   }
 
   h2 {
@@ -36,10 +36,10 @@
   }
 
   h3 {
-    font-weight: 400;
+    font-weight: 700;
     transform: rotate(-90deg);
     position: absolute;
-    top: 150px;
-    right: 74px;
+    top: 56px;
+    right: 12px;
   }
 </style>
